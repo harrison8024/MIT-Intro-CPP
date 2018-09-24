@@ -31,4 +31,5 @@ int main()
     cout << "Max: " << max << endl;
     cout << "Min: " << min << endl;
     cout << "Range: " << range << endl;
+    return 0;
 }
